@@ -1,0 +1,22 @@
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\bin\Debug\net8.0\CryptoConnector.deps.json
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\bin\Debug\net8.0\CryptoConnector.dll
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\bin\Debug\net8.0\CryptoConnector.pdb
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.AssemblyInfoInputs.cache
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.AssemblyInfo.cs
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.dll
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\obj\Debug\net8.0\refint\CryptoConnector.dll
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.pdb
+C:\Users\Oleg\source\repos\CryptoConnector\CryptoConnector\obj\Debug\net8.0\ref\CryptoConnector.dll
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.AssemblyInfoInputs.cache
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.AssemblyInfo.cs
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.csproj.CoreCompileInputs.cache
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.dll
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\obj\Debug\net8.0\refint\CryptoConnector.dll
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.pdb
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\bin\Debug\net8.0\CryptoConnector.deps.json
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\bin\Debug\net8.0\CryptoConnector.dll
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\bin\Debug\net8.0\CryptoConnector.pdb
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\obj\Debug\net8.0\ref\CryptoConnector.dll

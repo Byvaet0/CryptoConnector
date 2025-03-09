@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CryptoConnector/1.0.0": {
+        "runtime": {
+          "CryptoConnector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CryptoConnector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
