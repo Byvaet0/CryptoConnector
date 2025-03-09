@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CryptoConnector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c14d8441bebcbc9655e58e841320b8814f70a2bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CryptoConnector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CryptoConnector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

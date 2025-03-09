@@ -20,3 +20,4 @@ F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\bin\Debug\net8.0\Cr
 F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\bin\Debug\net8.0\CryptoConnector.dll
 F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\bin\Debug\net8.0\CryptoConnector.pdb
 F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\obj\Debug\net8.0\ref\CryptoConnector.dll
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnector\obj\Debug\net8.0\CryptoConnector.sourcelink.json
