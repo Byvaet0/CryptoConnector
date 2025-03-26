@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "fFsFC0eYjtj6lVhVpGqcdFHSpZxDCH2rXbuvB4qePWY=",
+  "Source": "CryptoConnectorWebApi",
+  "BasePath": "_content/CryptoConnectorWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CryptoConnectorWebApi\\wwwroot",
+      "Source": "CryptoConnectorWebApi",
+      "ContentRoot": "F:\\C# Project for hh Cryptro\\CryptoConnector\\CryptoConnectorWebApi\\wwwroot\\",
+      "BasePath": "_content/CryptoConnectorWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

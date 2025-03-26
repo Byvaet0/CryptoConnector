@@ -1,0 +1,2 @@
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnectorWebApi\wwwroot\index.html
+F:\C# Project for hh Cryptro\CryptoConnector\CryptoConnectorWebApi\wwwroot\main.js

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\C# Project for hh Cryptro\\CryptoConnector\\CryptoConnectorWebApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "F:\\C# Project for hh Cryptro\\CryptoConnector\\CryptoConnectorWebApi\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CryptoConnectorWebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CryptoConnectorWebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CryptoConnectorWebApi.props",
+      "PackagePath": "build\\CryptoConnectorWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CryptoConnectorWebApi.props",
+      "PackagePath": "buildMultiTargeting\\CryptoConnectorWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CryptoConnectorWebApi.props",
+      "PackagePath": "buildTransitive\\CryptoConnectorWebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
