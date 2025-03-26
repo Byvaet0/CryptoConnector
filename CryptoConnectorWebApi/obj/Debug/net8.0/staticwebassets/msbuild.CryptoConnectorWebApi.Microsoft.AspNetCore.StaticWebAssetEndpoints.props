@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CryptoConnectorWebApi/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wVNMa0jkQH0pJpIEkf7kY4nR6YK\u002BUuxOtJlWRms2Ivc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1390"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022wVNMa0jkQH0pJpIEkf7kY4nR6YK\u002BUuxOtJlWRms2Ivc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:44:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CryptoConnectorWebApi/index.t57u01reij.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t57u01reij"},{"Name":"integrity","Value":"sha256-wVNMa0jkQH0pJpIEkf7kY4nR6YK\u002BUuxOtJlWRms2Ivc="},{"Name":"label","Value":"_content/CryptoConnectorWebApi/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1390"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022wVNMa0jkQH0pJpIEkf7kY4nR6YK\u002BUuxOtJlWRms2Ivc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:44:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CryptoConnectorWebApi/main.efs3z690a1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"efs3z690a1"},{"Name":"integrity","Value":"sha256-VuLGuGdZiST4Ui9dFdfkk9kR4KY2sHyx/Jmw7SF1pM8="},{"Name":"label","Value":"_content/CryptoConnectorWebApi/main.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2419"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VuLGuGdZiST4Ui9dFdfkk9kR4KY2sHyx/Jmw7SF1pM8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:46:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CryptoConnectorWebApi/main.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VuLGuGdZiST4Ui9dFdfkk9kR4KY2sHyx/Jmw7SF1pM8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2419"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VuLGuGdZiST4Ui9dFdfkk9kR4KY2sHyx/Jmw7SF1pM8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:46:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
